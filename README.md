@@ -1,5 +1,5 @@
-# Juegos basicos en Python!🐍
+# Curso Python FreeCodeCamp!🐍
+Proyecto Básico de Python (El Ahorcado).
+Basado en el proyecto de: Kylie Ying (@kylieyying). 
+Versión en Español con Modificaciones: Estefania Cassingena Navone (@EstefaniaCassN).
 
-## Hola Mundo!
-
-En esta ocasion les traigo algunos proyectos que realice del bootcamp FreeCodeCamp para poder aplicar conceptos de python. Encontraran juegos clasicos como piedra, papel o tijera, o tambien el ahorcado.
